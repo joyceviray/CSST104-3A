@@ -1,4 +1,5 @@
-# CSST104-3A
-Compilation of project and activities for the subject 
+# Viray, Joyce Anne M. 
+# BSCS 3A 
+
 
 
